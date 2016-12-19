@@ -1,0 +1,998 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/bb/BB/Code/AdminConsole/app/routes/builds.server.routes.js" timestamp="1481753329014">
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/setup/index.hbs" timestamp="1481740996127">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="105" column="53" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/careers/index.hbs" timestamp="1481740682769">
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="70" />
+        <mark key="^" line="23" column="71" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/integrations/index.hbs" timestamp="1481741010064">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="131" column="57" />
+        <mark key="^" line="130" column="65" />
+        <mark key="." line="131" column="57" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/workflow/index.hbs" timestamp="1481740982231">
+        <mark key="[" line="22" column="58" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/build/Build.service.js" timestamp="1481756784290">
+        <mark key="[" line="192" column="63" />
+        <mark key="]" line="192" column="78" />
+        <mark key="." line="192" column="78" />
+        <mark key="^" line="192" column="78" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/apps/index.js" timestamp="1481847926507">
+        <mark key="[" line="5" column="54" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/CrashReport.js" timestamp="1481841540091">
+        <mark key="[" line="983" column="48" />
+        <mark key="]" line="983" column="48" />
+        <mark key="^" line="983" column="53" />
+        <mark key="." line="983" column="48" />
+      </file>
+      <file name="/a.dummy" timestamp="1481934913414">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/branches/branches.controller.js" timestamp="1481831693704">
+        <mark key="[" line="96" column="98" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/upgradeFramework/upgradeFramework.view.html" timestamp="1481926926197">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/apps/graphql/queries/index.js" timestamp="1481518440828">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/Build.js" timestamp="1481756922214">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/apps/apps.type.js" timestamp="1481518270839">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/banner.scss" timestamp="1481759871322">
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="0" />
+        <mark key="^" line="527" column="16" />
+        <mark key="." line="525" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/config/preprod.js" timestamp="1481233691820">
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="73" column="44" />
+        <mark key="." line="73" column="44" />
+        <mark key="^" line="73" column="24" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/SettingsSchema.js" timestamp="1481926037435">
+        <mark key="[" line="395" column="0" />
+        <mark key="]" line="395" column="0" />
+        <mark key="." line="395" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/notifications/notifyBuildSuccess.js" timestamp="1481830175887">
+        <mark key="[" line="185" column="80" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/UserSchema.js" timestamp="1481653631572">
+        <mark key="[" line="64" column="26" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/notifications/notification.js" timestamp="1481841456555">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/plans/plans.controller.js" timestamp="1481911900814">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/download/index.js" timestamp="1481841450294">
+        <mark key="[" line="565" column="27" />
+        <mark key="]" line="565" column="27" />
+        <mark key="^" line="564" column="0" />
+        <mark key="." line="565" column="27" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/settings2/email-notification/EmailNotificationController.controller.js" timestamp="1481226942609">
+        <mark key="[" line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/AdminConsole/public/modules/builds/views/view-build.client.view.html" timestamp="1481753204379">
+        <mark key="[" line="87" column="69" />
+        <mark key="]" line="87" column="69" />
+        <mark key="." line="87" column="69" />
+        <mark key="^" line="77" column="18" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/iterate/index.hbs" timestamp="1481741001649">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="239" column="13" />
+        <mark key="^" line="239" column="22" />
+        <mark key="." line="239" column="13" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/index.hbs" timestamp="1481742163506">
+        <mark key="[" line="256" column="157" />
+        <mark key="]" line="256" column="157" />
+        <mark key="." line="256" column="157" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/react/src/components/build/Build.jsx" timestamp="1481329002275">
+        <mark key="[" line="138" column="58" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="87" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/pillSelector/pillSelector.view.html" timestamp="1481138739824">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/customers/index.hbs" timestamp="1481740738253">
+        <mark key="[" line="21" column="73" />
+        <mark key="]" line="21" column="69" />
+        <mark key="." line="21" column="69" />
+        <mark key="^" line="21" column="69" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/AppSignup.js" timestamp="1481841029933">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/partials/simple-article-template.hbs" timestamp="1481742114778">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/careers/career-ios-developer.hbs" timestamp="1481740647929">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/apps/graphql/queries/app/index.js" timestamp="1481518497202">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/apps.run.js" timestamp="1481925274179">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradeRequired/frameworkUpgradeRequired.scss" timestamp="1481917779635">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1481847803936">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/Trello.js" timestamp="1480980547788">
+        <mark key="[" line="132" column="41" />
+        <mark key="]" line="132" column="39" />
+        <mark key="." line="132" column="39" />
+        <mark key="^" line="132" column="39" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/react/src/components/build-list/BuildRow.jsx" timestamp="1481329032873">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/download/ios/downloadIPA.html" timestamp="1481839707654">
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
+        <mark key="^" line="76" column="54" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/partials/navbar/navbar-mobile.hbs" timestamp="1481669187329">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="4" column="114" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/InternalTaskScheduler/scheduler/jobs/sales_tasks.js" timestamp="1481233736436">
+        <mark key="[" line="55" column="68" />
+        <mark key="]" line="69" column="41" />
+        <mark key="^" line="69" column="41" />
+        <mark key="." line="69" column="41" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/CanaryEventModel.js" timestamp="1481914608734">
+        <mark key="[" line="34" column="36" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/paymentDetails/paymentDetails.scss" timestamp="1481581575947">
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/partials/navbar/navbar.hbs" timestamp="1481670313627">
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="12" column="86" />
+        <mark key="." line="12" column="86" />
+        <mark key="^" line="12" column="86" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appUpgradeFramework/appUpgradeFramework.view.html" timestamp="1481845670036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/deploy/deploy.controller.js" timestamp="1481844071018">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/BuildCoordinator/do_build.js" timestamp="1481931015624">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/about.hbs" timestamp="1481740885414">
+        <mark key="[" line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/addPaymentDetails/addPaymentDetails.component.js" timestamp="1481576129540">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/services/Organizations.service.js" timestamp="1481850185898">
+        <mark key="[" line="173" column="79" />
+        <mark key="]" line="172" column="20" />
+        <mark key="." line="172" column="20" />
+        <mark key="^" line="172" column="20" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/test/index.hbs" timestamp="1481740989533">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="107" column="110" />
+        <mark key="." line="107" column="110" />
+        <mark key="^" line="107" column="56" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/deployments/animate.deployments.js" timestamp="1481240888039">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/email/templates/generic_email_affected_user.html.ejs" timestamp="1481842009368">
+        <mark key="[" line="58" column="230" />
+        <mark key="]" line="58" column="230" />
+        <mark key="." line="58" column="230" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/careers/career-software-generalist.hbs" timestamp="1481740658448">
+        <mark key="[" line="17" column="83" />
+        <mark key="]" line="17" column="83" />
+        <mark key="." line="17" column="83" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appDecisionRequired/appDecisionRequired.component.js" timestamp="1481851857375">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/paymentDetails/paymentDetails.component.js" timestamp="1481668357577">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="142" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/press.hbs" timestamp="1481740830718">
+        <mark key="[" line="17" column="58" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/blog.application.js" timestamp="1481752875484">
+        <mark key="[" line="110" column="54" />
+        <mark key="]" line="102" column="91" />
+        <mark key="." line="102" column="91" />
+        <mark key="^" line="106" column="106" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradePopup/frameworkUpgradePopup.controller.js" timestamp="1481935903127">
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/deployments/deployments.scss" timestamp="1480978052215">
+        <mark key="[" line="337" column="67" />
+        <mark key="]" line="337" column="67" />
+        <mark key="^" line="337" column="67" />
+        <mark key="." line="337" column="67" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/post.hbs" timestamp="1481740927783">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradePopup/frameworkUpgradePopup.view.html" timestamp="1481912031123">
+        <mark key="[" line="6" column="71" />
+        <mark key="]" line="6" column="93" />
+        <mark key="." line="6" column="93" />
+        <mark key="^" line="6" column="93" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/apps.js" timestamp="1481935116472">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/plans/index.js" timestamp="1481910248830">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appNavBarSwitcher/appNavBarSwitcher.component.js" timestamp="1481068762122">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/AppCtrl.controller.js" timestamp="1481934653366">
+        <mark key="[" line="16" column="14" />
+        <mark key="^" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/BuildModel.js" timestamp="1481930791682">
+        <mark key="[" line="91" column="32" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/account-settings/git-connections/GitConnectionsCtrl.controller.js" timestamp="1481735677193">
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/bitbucket/passport.js" timestamp="1481312289902">
+        <mark key="[" line="26" column="65" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/_organizations.module.js" timestamp="1481321825748">
+        <mark key="[" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" timestamp="1481141665827">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/commonComponents/invitePaymentDetails/invitePayeeSuccess/invitePayeeSuccess.component.js" timestamp="1481321727337">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/decisionRequired/decisionRequired.component.js" timestamp="1481071936057">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="6" column="85" />
+        <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/routes/organizations.client.routes.js" timestamp="1481926486305">
+        <mark key="[" line="96" column="18" />
+        <mark key="]" line="509" column="0" />
+        <mark key="." line="509" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/invitePayeeDialog/invitePayeeDialogController.controller.js" timestamp="1481575202927">
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="79" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="3" column="79" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/features.js" timestamp="1480963894409">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/commonComponents/invitePaymentDetails/invitePaymentDetails.component.js" timestamp="1481321712079">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/paymentDetails/paymentDetails.view.html" timestamp="1481667248958">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="49" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/server/api/orgs/index.js" timestamp="1481674415643">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/app/AppModel.service.js" timestamp="1481927120068">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="169" column="60" />
+        <mark key="." line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradeRequired/frameworkUpgradeRequired.view.html" timestamp="1481927631321">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="66" />
+        <mark key="^" line="4" column="81" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/disableBuildDialog/disableBuildDialog.scss" timestamp="1481755753016">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/services/OrgNavigation.service.js" timestamp="1481851614969">
+        <mark key="[" line="55" column="39" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/AdminConsole/public/modules/plans/views/list-plans.client.view.html" timestamp="1481919836210">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/featuresOverview.scss" timestamp="1481241993521">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="56" column="15" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/css/style.css" timestamp="1481671009821">
+        <mark key="[" line="207" column="1" />
+        <mark key="]" line="214" column="0" />
+        <mark key="^" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/AdminConsole/public/modules/builds/controllers/builds.client.controller.js" timestamp="1481753325991">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="28" column="14" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/Gruntfile.js" timestamp="1482082136238">
+        <mark key="[" line="247" column="49" />
+        <mark key="]" line="222" column="30" />
+        <mark key="." line="222" column="30" />
+        <mark key="^" line="222" column="31" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/app/App.service.js" timestamp="1481932296100">
+        <mark key="[" line="24" column="62" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/robots.txt" timestamp="1481748130414">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/community/index.hbs" timestamp="1481742183879">
+        <mark key="[" line="238" column="31" />
+        <mark key="]" line="238" column="31" />
+        <mark key="." line="238" column="31" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/tos.hbs" timestamp="1481740868674">
+        <mark key="[" line="17" column="58" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/alertBanner/alertBanner.component.js" timestamp="1481580750501">
+        <mark key="[" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBBuildSteps/steps/do_planning.js" timestamp="1481931002878">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/app.js" timestamp="1481322058377">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/branches-build-table/branch-configuration-dialog/BranchConfigurationDialog.controller.js" timestamp="1481836121849">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="61" column="14" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/alertBanner/alertBanner.scss" timestamp="1481580910004">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/integrations/integrations.scss" timestamp="1480630826597">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="79" column="16" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="79" column="16" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/partials/wide-article-template.hbs" timestamp="1481742134401">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/app.js" timestamp="1482081274128">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="48" column="28" />
+        <mark key="." line="51" column="19" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/wizard/build/analysis/analysis.html" timestamp="1481933801811">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="^" line="264" column="7" />
+        <mark key="." line="251" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/commonComponents/_commonApp.module.js" timestamp="1481322004349">
+        <mark key="[" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/settings2/build-configuration/settingsName.filter.js" timestamp="1481831623708">
+        <mark key="[" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/README.md" timestamp="1482082240481">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/engineering/index.hbs" timestamp="1481742188908">
+        <mark key="[" line="228" column="19" />
+        <mark key="]" line="228" column="19" />
+        <mark key="." line="228" column="19" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/download/ios/DownloadIPACtrl.controller.js" timestamp="1481839880856">
+        <mark key="[" line="292" column="50" />
+        <mark key="]" line="292" column="50" />
+        <mark key="." line="292" column="50" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/potentialAppList/potentialAppList.scss" timestamp="1481157825753">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/invitePaymentDetails/invitePayeeSuccess/invitePayeeSuccess.component.js" timestamp="1481580371551">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/404/404.scss" timestamp="1480719889361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/AppModel.js" timestamp="1481933212598">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/customers/kinsa.hbs" timestamp="1481740755409">
+        <mark key="[" line="22" column="72" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="70" />
+        <mark key="^" line="22" column="70" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/settings-difference/SettingsDifference.service.js" timestamp="1481831669506">
+        <mark key="[" line="48" column="111" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/blog.scss" timestamp="1481760012330">
+        <mark key="[" line="535" column="28" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/data/services/Plans.service.js" timestamp="1481910532531">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="54" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/navbar/NavbarCtrl.controller.js" timestamp="1481735686180">
+        <mark key="[" line="128" column="59" />
+        <mark key="]" line="128" column="59" />
+        <mark key="." line="128" column="59" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/build/build.html" timestamp="1481227682899">
+        <mark key="[" line="18" column="171" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/index.hbs" timestamp="1481740816822">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="76" column="30" />
+        <mark key="." line="21" column="63" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/iterate/iterate.scss" timestamp="1481242779987">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="^" line="233" column="28" />
+        <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/disableBuildDialog/disableBuildDialog.view.html" timestamp="1481755778863">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="79" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/blog/insights/index.hbs" timestamp="1481742195287">
+        <mark key="[" line="228" column="19" />
+        <mark key="]" line="228" column="19" />
+        <mark key="." line="228" column="19" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/settings2/Settings2Ctrl.controller.js" timestamp="1481841018255">
+        <mark key="[" line="64" column="175" />
+        <mark key="]" line="64" column="175" />
+        <mark key="." line="64" column="175" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/careers/career-support-developer.hbs" timestamp="1481740667840">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/branchBuildsTable/branchBuildsTableHeader/branchBuildsTableHeader.component.js" timestamp="1481051636461">
+        <mark key="[" line="34" column="10" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/invitePaymentDetails/invitePaymentDetails.component.js" timestamp="1481754796689">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/index.hbs" timestamp="1481742205729">
+        <mark key="[" line="172" column="47" />
+        <mark key="]" line="172" column="47" />
+        <mark key="^" line="181" column="0" />
+        <mark key="." line="172" column="47" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/commonComponents/invitePaymentDetails/invitePayeeDialog/invitePayeeDialogController.controller.js" timestamp="1481321802054">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/settings2/notificationEvents.filter.js" timestamp="1481841004801">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/upgradeFramework/upgradeFrameworkPageController.controller.js" timestamp="1481926828702">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/potentialAppList/potentialAppList.view.html" timestamp="1481849171328">
+        <mark key="[" line="4" column="121" />
+        <mark key="]" line="4" column="121" />
+        <mark key="." line="4" column="121" />
+        <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradePopup/frameworkUpgradePopup.scss" timestamp="1481851094502">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/CacheModel.js" timestamp="1481914600432">
+        <mark key="[" line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/frameworkUpgradeRequired/frameworkUpgradeRequired.component.js" timestamp="1481935885839">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/views/partials/community-article-template.hbs" timestamp="1481742219597">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/branchDecisionRequired/branchDecisionRequired.component.js" timestamp="1481158740532">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/externalAddPaymentDetails/externalAddPaymentDetails.view.html" timestamp="1481665657307">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/careers/career-frontend-developer.hbs" timestamp="1481740640318">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="16" column="67" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/potentialAppCell/potentialAppCell.component.js" timestamp="1481919658410">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBErrors/index.js" timestamp="1481931008132">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/crashreport/crashreport.scss" timestamp="1480982540487">
+        <mark key="[" line="208" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481139059321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appDecisionRequired/appDecisionRequired.scss" timestamp="1481322888354">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/models/NotificationEventsSchema.js" timestamp="1481841056133">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/branches-build-table/branch-configuration-dialog/branch-configuration-dialog.html" timestamp="1481836067566">
+        <mark key="[" line="119" column="91" />
+        <mark key="]" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+        <mark key="^" line="120" column="11" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/wizard/build/select-repo/select-repo.scss" timestamp="1481836842006">
+        <mark key="[" line="300" column="1" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/download/android/DownloadAPKCtrl.controller.js" timestamp="1481839989696">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="113" column="20" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/iterate/iterate.js" timestamp="1481241307056">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="/a.regexp" timestamp="1482081911724">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/privacy.hbs" timestamp="1481740842428">
+        <mark key="[" line="17" column="58" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/customers/plex.html" timestamp="1480979340909">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="51" />
+      </file>
+      <file name="$USER_HOME$/bb/LandingPage/features/setup/setup.scss" timestamp="1481242125954">
+        <mark key="[" line="87" column="21" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/BuildCoordinator/notifications/providers/customerNotifications.js" timestamp="1481831880780">
+        <mark key="[" line="128" column="63" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.view.html" timestamp="1481141650947">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/icon.scss" timestamp="1481757520874">
+        <mark key="[" line="777" column="1" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/app.html" timestamp="1481846757120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/download/android/downloadAPK.html" timestamp="1481839736971">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="26" column="103" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/CrashReportAggregate.js" timestamp="1480970155648">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="285" column="39" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/invitePaymentDetails/invitePayeeDialog/invitePayeeDialog.view.html" timestamp="1481667895994">
+        <mark key="[" line="11" column="83" />
+        <mark key="]" line="11" column="83" />
+        <mark key="." line="11" column="83" />
+      </file>
+      <file name="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/Plan.js" timestamp="1481911895806">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="32" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/build/build.scss" />
+      <jump line="57" column="6" filename="$USER_HOME$/bb/BB/Code/InternalTaskScheduler/scheduler/jobs/delete_notifications.js" />
+      <jump line="117" column="17" filename="$USER_HOME$/bb/BB/Code/InternalTaskScheduler/scheduler/jobs/delete_notifications.js" />
+      <jump line="900" column="35" filename="$USER_HOME$/bb/LandingPage/dist/style.css" />
+      <jump line="179" column="4" filename="$USER_HOME$/bb/LandingPage/Gruntfile.js" />
+      <jump line="253" column="59" filename="$USER_HOME$/bb/LandingPage/privacy.html" />
+      <jump line="269" column="0" filename="$USER_HOME$/bb/LandingPage/privacy.html" />
+      <jump line="42" column="13" filename="$USER_HOME$/bb/LandingPage/about/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/LandingPage/about/index.html" />
+      <jump line="66" column="31" filename="$USER_HOME$/bb/LandingPage/views/partials/navbar/navbar.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/bb/LandingPage/views/partials/navbar/navbar.js" />
+      <jump line="100" column="2" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="167" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="182" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="202" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="219" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="227" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="229" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="261" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="329" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="348" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="364" column="0" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="87" column="20" filename="$USER_HOME$/bb/LandingPage/features/index.hbs" />
+      <jump line="72" column="64" filename="$USER_HOME$/bb/LandingPage/features/workflow/index.hbs" />
+      <jump line="74" column="10" filename="$USER_HOME$/bb/LandingPage/features/workflow/index.hbs" />
+      <jump line="56" column="8" filename="$USER_HOME$/bb/LandingPage/features/setup/setup.scss" />
+      <jump line="20" column="17" filename="$USER_HOME$/bb/LandingPage/features/test/test.scss" />
+      <jump line="35" column="0" filename="$USER_HOME$/bb/LandingPage/features/test/test.scss" />
+      <jump line="86" column="21" filename="$USER_HOME$/bb/LandingPage/features/deployments/index.hbs" />
+      <jump line="121" column="29" filename="$USER_HOME$/bb/BB/Code/InternalTaskScheduler/scheduler/jobs/delete_notifications.js" />
+      <jump line="1040" column="24" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/api/apps/apps.controller.js" />
+      <jump line="232" column="43" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/wizard/build/analysis/analysis.html" />
+      <jump line="655" column="44" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="146" column="8" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="166" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/jira.js" />
+      <jump line="28" column="74" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/multipleAppList/multipleAppList.component.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/bbFonts.scss" />
+      <jump line="22" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/bbFonts.scss" />
+      <jump line="83" column="194" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appsTabs/appsTabs.view.html" />
+      <jump line="51" column="53" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appsTabs/tabsWidth.directive.js" />
+      <jump line="49" column="16" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/appsTabs/tabsWidth.directive.js" />
+      <jump line="31" column="69" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/github/passport.js" />
+      <jump line="616" column="38" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="508" column="16" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="501" column="53" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/authRouter.js" />
+      <jump line="523" column="20" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="24" column="49" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/UserMerge.js" />
+      <jump line="486" column="25" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/organizations/components/invitePaymentDetails/invitePaymentDetails.component.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/app/apps/app/builds/builds.scss" />
+      <jump line="42" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBAndroid/tasks/resignapk.js" />
+      <jump line="879" column="34" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="266" column="53" filename="$USER_HOME$/bb/BB/Code/node_modules/BBAndroid/tasks/resignapk.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/bb/BB/Code/node_modules/BBAndroid/tasks/resignapk.js" />
+      <jump line="630" column="33" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="621" column="0" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="776" column="37" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="623" column="12" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="221" column="5" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="622" column="33" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="625" column="12" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="652" column="14" filename="$USER_HOME$/bb/BB/Code/node_modules/BBFeedback/Feedback.js" />
+      <jump line="406" column="11" filename="$USER_HOME$/bb/BB/Code/AdminConsole/app/controllers/builds.server.controller.js" />
+      <jump line="9" column="52" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/disableBuildDialog/disableBuildDialogController.controller.js" />
+      <jump line="4" column="36" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/notifications/NotifyDisabledBuildInstallation.js" />
+      <jump line="64" column="37" filename="$USER_HOME$/bb/BB/Code/node_modules/BBShared/APIs/notifications/NotifyDisabledBuildInstallation.js" />
+      <jump line="5" column="32" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/potentialAppList/potentialAppList.component.js" />
+      <jump line="475" column="53" filename="$USER_HOME$/bb/BB/Code/Dashboard/server/auth/auth.service.js" />
+      <jump line="110" column="28" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/app/AppSettings.service.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/bb/BB/Code/Dashboard/client/components/app/AppSettings.service.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIFdBUzogZ2l0IHB1c2ggLWYgb3JpZ2luIG1hc3RlcjpyZWxlYXNlCiAgICBOT1c6CiAgICAxLiBMb2cgaW4gdG8gW0FXUzpFQl0oaHR0cHM6Ly91cy13ZXN0LTIuY29uc29sZS5hd3MuYW1hem9uLmNvbS9lbGFzdGljYmVhbnN0YWxrL2hvbWU/cmVnaW9uPXVzLXdlc3QtMiMvYXBwbGljYXRpb24vdmVyc2lvbnM/YXBwbGljYXRpb25OYW1lPUxhbmRpbmdQYWdlKQogICA=</text>
+      </register>
+      <register name="-" type="4">
+        <text>, '/privacy.html'</text>
+      </register>
+      <register name="/" type="4">
+        <text>4rem</text>
+      </register>
+      <register name="0" type="4">
+        <text>and more...</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIFdBUzogZ2l0IHB1c2ggLWYgb3JpZ2luIG1hc3RlcjpyZWxlYXNlCiAgICBOT1c6CiAgICAxLiBMb2cgaW4gdG8gW0FXUzpFQl0oaHR0cHM6Ly91cy13ZXN0LTIuY29uc29sZS5hd3MuYW1hem9uLmNvbS9lbGFzdGljYmVhbnN0YWxrL2hvbWU/cmVnaW9uPXVzLXdlc3QtMiMvYXBwbGljYXRpb24vdmVyc2lvbnM/YXBwbGljYXRpb25OYW1lPUxhbmRpbmdQYWdlKQogICA=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmFwcC5nZXQoJzpiYXNlLmh0bWwnLCBmdW5jdGlvbihyZXEsIHJlcykgewogICAgY29uc29sZS5sb2cocmVxLnBhcmFtcy5iYXNlKTsKICAgIHJlcy5yZWRpcmVjdCgpCn0p</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="6" type="4">
+        <text>app.get('/tos.html', function(req, res) {
+    res.render('tos.hbs');
+});</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKChwbGFuKSA9PiB7cmV0dXJuIHBsYW4ucGxhbl9uYW1lO30pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9wbGFucyA9IGxvZGFzaC5maWx0ZXIoX3BsYW5zLCAocGxhbikgPT4ge3JldHVybiBwbGFuLnBlcmlvZCA9PT0gJ21vbnRobHknO30pCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>4rem</last-search>
+      <last-offset />
+      <last-pattern>4rem</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxpbmhlcml0XD4=</entry>
+        <entry encoding="base64">XDxiYWNrZ3JvdW5kXD4=</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxzY29wZVw+</entry>
+        <entry encoding="base64">XDxsZXRcPg==</entry>
+        <entry encoding="base64">XDxnclw+</entry>
+        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
+        <entry encoding="base64">XDxkaXZcPg==</entry>
+        <entry>4rem</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
